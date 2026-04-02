@@ -22,7 +22,7 @@ Working with an older, real-world geospatial dataset to predict median house val
 
 ### Contribution Log  
 
-#### For space and clarity, the contribution log is maintained in a separate .md file: [View Contribution Log](/contributions.md)
+#### For space and clarity, the contribution log is maintained in a separate .md file: [/contributions.md](/contributions.md)
 ---
 
 [TODO] - Integrate the readme from Eric's document and add other documents to the repo (will do this soon)
