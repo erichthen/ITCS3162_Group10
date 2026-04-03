@@ -24,8 +24,18 @@ Working with an older, real-world geospatial dataset to predict median house val
 
 #### For space and clarity, the contribution log is maintained in a separate .md file: [/contributions.md](/contributions.md)
 ---
+### Links to checkpoint deliverables:  
+
+- [Team Formation and Infrastructure](https://docs.google.com/document/d/15omisE-WSeSgFE5SokHtzFl-5jrAOJIrffEr3LVqEAQ/edit?usp=sharing)  
+
+- [Data Understanding and Profiling](https://docs.google.com/document/d/1NPWsUJl5LV_PZP1Yc0gEYI5z8UknAPZcx3Jkt8AtYpo/edit?usp=sharing)  
+
+---
 
 [TODO] - Integrate the readme from Eric's document and add other documents to the repo (will do this soon)
+
+
+
 
 
 
