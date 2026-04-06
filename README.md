@@ -32,7 +32,10 @@ Working with an older, real-world geospatial dataset to predict median house val
 
 ---
 
-[TODO] - Integrate the readme from Eric's document and add other documents to the repo (will do this soon)
+[TODO] 
+
+ - Integrate the readme from Eric's document and add other documents (i.e., workflows, snapshots, deliverables, to the repo (will do this soon)
+ - simple instructions to work locally (not vital for this unless we need build scripts but vital to know)
 
 
 
