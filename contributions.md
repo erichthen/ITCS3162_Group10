@@ -14,6 +14,5 @@ Also, when entering just copy and paste an existing row to make a new row, the c
 
 | Member Name | Date | Summary of work done | Notes for teammates (if any)|
 |-------------|-----------------------------|------------------|--------------|
-|Erich Then   |04/01|worked on repo setup|                     |  
-|Erich Then   |04/01|added to checkpoint 2 EDA|                 |  
+|Erich Then   |04/01|worked on repo setup, added to checkpoint 2 EDA|                     |  
 |||||                  
