@@ -8,11 +8,9 @@
  
 **Note for group**: My idea is to put one entry in for each day you contributed to the project in any way and just briefly summarize what you did on that day, which it could be anything and of course doesn't have to be every day. If there is something you want to tell the group (like a bug, an idea, etc.) then there is an optional field there.  
 
-Also, when entering just copy and paste an existing row to make a new row, the column lines in raw markdown don't have to be aligned the table will. 
-
 ---
 
 | Member Name | Date | Summary of work done | Notes for teammates (if any)|
 |-------------|-----------------------------|------------------|--------------|
-|Erich Then   |04/01|worked on repo setup, added to checkpoint 2 EDA|                     |  
-|||||                  
+|Erich Then|04/01|worked on repo setup, added to checkpoint 2 EDA||  
+ 
