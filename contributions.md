@@ -2,7 +2,7 @@
 
 ## **ITCS 3162: Data Mining Course Project -- Group #10**  
 
-## **Group Members:** Erich Then,  Eric Ho,  Aaron Putnum, Ethan Park  
+### **Group Members:** Erich Then,  Eric Ho,  Aaron Putnum, Ethan Park  
 ---
 > *Our group may do things differently, where we are all hybrid and flexible in what we do. So there won't be many defined 'roles', as we will work together on each task and split up the work. In return for doing it this way, we will likely maintain a log for our contributions that is structured to better suit this dynamic.  
  
